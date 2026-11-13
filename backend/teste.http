@@ -1,0 +1,3 @@
+###
+POST /cadastrarFuncionario
+Content-Type: application/json
